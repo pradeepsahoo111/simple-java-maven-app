@@ -21,3 +21,4 @@ the "Deliver" stage of your Pipeline.
 2. Test for SCM
 
 Test for webhook
+test for change
